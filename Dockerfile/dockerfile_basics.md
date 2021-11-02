@@ -1,7 +1,7 @@
 # Dockerfile basics
 
 FROM 
-RUN - (Use RUN command only once, becuase each run command create a new lower)
+RUN - (Use RUN command only Once, becuase each run command create a new lower)
 COPY 
 ADD - (To download content inside the container) - Recheck this 
 EXPOSE 
